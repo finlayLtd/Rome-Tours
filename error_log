@@ -1,0 +1,67 @@
+[03-Jan-2018 12:44:58 UTC] PHP Warning:  require(/home/webservi/public_html/wheninrometours.com/Laravel/../vendor/autoload.php): failed to open stream: No such file or directory in /home/webservi/public_html/wheninrometours.com/Laravel/index.php on line 24
+[03-Jan-2018 12:44:58 UTC] PHP Warning:  require(/home/webservi/public_html/wheninrometours.com/Laravel/../vendor/autoload.php): failed to open stream: No such file or directory in /home/webservi/public_html/wheninrometours.com/Laravel/index.php on line 24
+[03-Jan-2018 12:44:58 UTC] PHP Fatal error:  require(): Failed opening required '/home/webservi/public_html/wheninrometours.com/Laravel/../vendor/autoload.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/webservi/public_html/wheninrometours.com/Laravel/index.php on line 24
+[03-Jan-2018 12:45:03 UTC] PHP Warning:  require(/home/webservi/public_html/wheninrometours.com/Laravel/../vendor/autoload.php): failed to open stream: No such file or directory in /home/webservi/public_html/wheninrometours.com/Laravel/index.php on line 24
+[03-Jan-2018 12:45:03 UTC] PHP Warning:  require(/home/webservi/public_html/wheninrometours.com/Laravel/../vendor/autoload.php): failed to open stream: No such file or directory in /home/webservi/public_html/wheninrometours.com/Laravel/index.php on line 24
+[03-Jan-2018 12:45:03 UTC] PHP Fatal error:  require(): Failed opening required '/home/webservi/public_html/wheninrometours.com/Laravel/../vendor/autoload.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/webservi/public_html/wheninrometours.com/Laravel/index.php on line 24
+[03-Jan-2018 12:45:06 UTC] PHP Warning:  require(/home/webservi/public_html/wheninrometours.com/Laravel/../vendor/autoload.php): failed to open stream: No such file or directory in /home/webservi/public_html/wheninrometours.com/Laravel/index.php on line 24
+[03-Jan-2018 12:45:06 UTC] PHP Warning:  require(/home/webservi/public_html/wheninrometours.com/Laravel/../vendor/autoload.php): failed to open stream: No such file or directory in /home/webservi/public_html/wheninrometours.com/Laravel/index.php on line 24
+[03-Jan-2018 12:45:06 UTC] PHP Fatal error:  require(): Failed opening required '/home/webservi/public_html/wheninrometours.com/Laravel/../vendor/autoload.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/webservi/public_html/wheninrometours.com/Laravel/index.php on line 24
+[04-Jan-2018 06:34:03 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/webservi/public_html/wheninrometours.com/Laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/webservi/public_html/wheninrometours.com/Laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('config')
+#1 /home/webservi/public_html/wheninrometours.com/Laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('config')
+#2 /home/webservi/public_html/wheninrometours.com/Laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('config', Array)
+#3 /home/webservi/public_html/wheninrometours.com/Laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('config', Array)
+#4 /home/webservi/public_html/wheninrometours.com/Laravel/vendor/laravel/framework/src/Illuminate/Foundation/helpe in /home/webservi/public_html/wheninrometours.com/Laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[04-Jan-2018 06:34:04 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/webservi/public_html/wheninrometours.com/Laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/webservi/public_html/wheninrometours.com/Laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('config')
+#1 /home/webservi/public_html/wheninrometours.com/Laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('config')
+#2 /home/webservi/public_html/wheninrometours.com/Laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('config', Array)
+#3 /home/webservi/public_html/wheninrometours.com/Laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('config', Array)
+#4 /home/webservi/public_html/wheninrometours.com/Laravel/vendor/laravel/framework/src/Illuminate/Foundation/helpe in /home/webservi/public_html/wheninrometours.com/Laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[04-Jan-2018 06:34:06 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/webservi/public_html/wheninrometours.com/Laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/webservi/public_html/wheninrometours.com/Laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('config')
+#1 /home/webservi/public_html/wheninrometours.com/Laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('config')
+#2 /home/webservi/public_html/wheninrometours.com/Laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('config', Array)
+#3 /home/webservi/public_html/wheninrometours.com/Laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('config', Array)
+#4 /home/webservi/public_html/wheninrometours.com/Laravel/vendor/laravel/framework/src/Illuminate/Foundation/helpe in /home/webservi/public_html/wheninrometours.com/Laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[04-Jan-2018 06:34:11 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/webservi/public_html/wheninrometours.com/Laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/webservi/public_html/wheninrometours.com/Laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('config')
+#1 /home/webservi/public_html/wheninrometours.com/Laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('config')
+#2 /home/webservi/public_html/wheninrometours.com/Laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('config', Array)
+#3 /home/webservi/public_html/wheninrometours.com/Laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('config', Array)
+#4 /home/webservi/public_html/wheninrometours.com/Laravel/vendor/laravel/framework/src/Illuminate/Foundation/helpe in /home/webservi/public_html/wheninrometours.com/Laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[04-Jan-2018 06:34:12 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/webservi/public_html/wheninrometours.com/Laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/webservi/public_html/wheninrometours.com/Laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('config')
+#1 /home/webservi/public_html/wheninrometours.com/Laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('config')
+#2 /home/webservi/public_html/wheninrometours.com/Laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('config', Array)
+#3 /home/webservi/public_html/wheninrometours.com/Laravel/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('config', Array)
+#4 /home/webservi/public_html/wheninrometours.com/Laravel/vendor/laravel/framework/src/Illuminate/Foundation/helpe in /home/webservi/public_html/wheninrometours.com/Laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[04-Jan-2018 11:21:04 UTC] PHP Fatal error:  Cannot use Illuminate\Support\Facades\Input as Input because the name is already in use in /home/webservi/public_html/wheninrometours.com/Laravel/app/Http/Controllers/rometours.php on line 10
+[04-Jan-2018 13:16:10 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Redirect\Controller' not found in /home/webservi/public_html/wheninrometours.com/Laravel/app/Http/Controllers/rometours.php on line 13
+[05-Jan-2018 09:41:09 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/webservi/public_html/wheninrometours.com/Laravel/vendor/tcg/voyager/src/Models/Permission.php on line 3
+[22-Jan-2018 12:39:48 UTC] PHP Fatal error:  Class 'App\Mail\Controller' not found in /home/webservi/public_html/wheninrometours.com/Laravel/app/Http/Controllers/reviews.php on line 15
+[06-Feb-2018 12:30:45 UTC] PHP Warning:  require_once(/home/webservi/public_html/wheninrometours.com/Laravel/public/../bootstrap/app.php): failed to open stream: No such file or directory in /home/webservi/public_html/wheninrometours.com/Laravel/public/index.php on line 38
+[06-Feb-2018 12:30:45 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/webservi/public_html/wheninrometours.com/Laravel/public/../bootstrap/app.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/webservi/public_html/wheninrometours.com/Laravel/public/index.php on line 38
+[06-Feb-2018 12:30:53 UTC] PHP Warning:  require_once(/home/webservi/public_html/wheninrometours.com/Laravel/public/../bootstrap/app.php): failed to open stream: No such file or directory in /home/webservi/public_html/wheninrometours.com/Laravel/public/index.php on line 38
+[06-Feb-2018 12:30:53 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/webservi/public_html/wheninrometours.com/Laravel/public/../bootstrap/app.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/webservi/public_html/wheninrometours.com/Laravel/public/index.php on line 38
+[08-Feb-2018 10:56:14 UTC] PHP Fatal error:  Cannot use [] for reading in /home/webservi/public_html/wheninrometours.com/Laravel/storage/framework/views/b920dfbd02bfede1a1687f317aabf3c759650523.php on line 340
+[09-Feb-2018 10:31:06 UTC] PHP Fatal error:  Cannot use [] for reading in /home/webservi/public_html/wheninrometours.com/Laravel/app/Http/Controllers/rometours.php on line 426
+[12-Feb-2018 12:51:41 UTC] PHP Warning:  Uncaught ErrorException: Object of class stdClass could not be converted to string in /home/webservi/public_html/wheninrometours.com/Laravel/app/Http/Controllers/rometours.php:549
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(4096, 'Object of class...', '/home/webservi/...', 549, Array)
+#1 /home/webservi/public_html/wheninrometours.com/Laravel/app/Http/Controllers/rometours.php(549): array_unique(Array)
+#2 /home/webservi/public_html/wheninrometours.com/Laravel/app/Http/Controllers/rometours.php(180): App\Http\Controllers\rometours->filters(Object(App\Post), Array, Array)
+#3 [internal function]: App\Http\Controllers\rometours->categories(Object(Illuminate\Http\Request))
+#4 /home/webservi/public_html/wheninrometours.com/Laravel/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(54): call_user_func_array(Array, Array)
+#5 /home/webservi/public_html/wheninrometours.com/Laravel/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(4 in /home/webservi/public_html/wheninrometours.com/Laravel/app/Http/Controllers/rometours.php on line 549
+[12-Feb-2018 12:51:41 UTC] PHP Fatal error:  Object of class stdClass could not be converted to string in /home/webservi/public_html/wheninrometours.com/Laravel/app/Http/Controllers/rometours.php on line 549
+[13-Feb-2018 06:44:50 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\contactus::upload() in /home/webservi/public_html/wheninrometours.com/Laravel/app/Http/Controllers/contactus.php on line 213
+[21-Feb-2018 11:38:19 UTC] PHP Fatal error:  Cannot use Illuminate\Http\Request as Request because the name is already in use in /home/webservi/public_html/wheninrometours.com/Laravel/vendor/tcg/voyager/src/Http/Controllers/VoyagerAuthController.php on line 9
+[10-Apr-2018 04:25:22 UTC] PHP Fatal error:  Out of memory (allocated 415236096) (tried to allocate 400572416 bytes) in /home/webservi/public_html/wheninrometours.com/vendor/tcg/voyager/src/Models/Category.php on line 28
+[10-Apr-2018 04:25:42 UTC] PHP Fatal error:  Out of memory (allocated 415236096) (tried to allocate 400572416 bytes) in /home/webservi/public_html/wheninrometours.com/vendor/tcg/voyager/src/Models/Category.php on line 28

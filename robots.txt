@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+https://eternaltoursrome.com/sitemap.xml
